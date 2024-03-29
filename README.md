@@ -1,4 +1,6 @@
 ### Hi there 👋
+👋 Hi, I’m @thanyarad
+📫 My Email ID is thanyarkottary2003@gmail.com
 
 <!--
 **thanyarad/thanyarad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
